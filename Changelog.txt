@@ -1,0 +1,3 @@
+﻿Increase Delayed Desktop Switch Timeout to 5 Seconds
+Enable The IntelPPM Driver
+Remove Snow Overlay
